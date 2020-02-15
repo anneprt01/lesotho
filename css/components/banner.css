@@ -1,0 +1,25 @@
+.banner{
+	background-image:  url(../../images/bann.png);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('../../images/bann.png');
+}
+
+.banner h1 {
+	color: white;
+	font-size: 30px;
+	padding: 5px;
+}
+
+.banner h3 {
+	color: white;
+	font-size: 18px;
+	font-weight: lighter;
+	opacity: 0,8;
+	margin-top: 20px 0px;
+}
+
